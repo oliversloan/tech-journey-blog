@@ -1,6 +1,6 @@
 import './globals.css'
 import type {Metadata} from 'next'
-import {Inter} from 'next/font/google'
+import {Kufam} from 'next/font/google'
 import NavBarContainer from "@/components/NavBarContainer";
 import Footer from "@/components/Footer";
 
@@ -9,8 +9,8 @@ TODO:  Change these things along with:
   - avatar.jpeg in /public/images
   - favicon.ico in /public
  */
-const font = Inter({subsets: ['latin']})
-const title = 'Olivers Site';
+const font = Kufam({weight: '400', subsets: ['latin']})
+const title = 'Oliver\'s Site';
 const description = 'This the Tech Journey template site';
 const links = [
   {title: 'Pokemon', href: '/pokemon'},
