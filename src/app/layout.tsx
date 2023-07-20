@@ -13,8 +13,7 @@ const font = Kufam({weight: '500', subsets: ['latin']})
 const title = 'Oliver\'s Site';
 const description = 'This the Tech Journey template site';
 const links = [
-  {title: 'Pokemon', href: '/pokemon'},
-  {title: 'Rick and Morty', href: '/rick-and-morty'}
+  {title: 'Pokemon', href: '/pokemon'}
 ];
 const SocialLinks = {
   twitter: '#twitter',
