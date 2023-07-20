@@ -9,7 +9,7 @@ TODO:  Change these things along with:
   - avatar.jpeg in /public/images
   - favicon.ico in /public
  */
-const font = Kufam({weight: '400', subsets: ['latin']})
+const font = Kufam({weight: '500', subsets: ['latin']})
 const title = 'Oliver\'s Site';
 const description = 'This the Tech Journey template site';
 const links = [
