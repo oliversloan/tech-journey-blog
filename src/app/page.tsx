@@ -21,14 +21,13 @@ export default function Home() {
       <div>
         <section>
           <p className={'prose'}>
-            Hello, I&apos;m <b>Luke</b>. I&apos;m a software engineer in love
-            with front end development. This is the starter template for Tech Journey!
+            Hi my name is Oliver, welcome to my website
           </p>
           <div className={'my-4'}>
             <i>
               Check out the repo{' '}
               <button className={'btn btn-primary'}>
-                <Link href={'https://github.com/ludu12/tech-journey-blog'}>
+                <Link href={'https://github.com/oliversloan/tech-journey-blog'}>
                   <span className={'text-primary-content'}>
                     here
                   </span>
